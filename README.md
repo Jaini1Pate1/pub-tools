@@ -1,0 +1,1 @@
+All tools have different flag and operation depending on how they are written, you can customize it to your need or use as it is, the flag and different way you can use it is written on very start of the scipt or use '-h' flag.
